@@ -20,7 +20,7 @@ module.exports = [
   { id: "qwen2.5:32b", size: "20GB" },
   { id: "qwen2.5:72b", size: "47GB" },
   { id: "phi4:14b", size: "9.1GB" },
-  { id: "mistral:7b", size: "4.1GB" },
+  { id: "mistral:latest", size: "4.4GB" },
   { id: "mistral-small:22b", size: "13GB" },
   { id: "codellama:7b", size: "3.8GB" },
   { id: "codellama:13b", size: "7.4GB" },
